@@ -1,0 +1,31 @@
+
+#gc {
+  position:absolute; 
+  left: 50%;
+  margin-left: -300px;
+}
+
+body {
+  margin: 0;
+  background: white;
+}
+
+h1 {
+  color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+nav {
+  text-align: center;
+}
+
+a:hover{color: blue;}
+a:active{color: red;}
+a:visited{color: blue;}
+
